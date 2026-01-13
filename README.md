@@ -1,6 +1,6 @@
-# Advent of Code 2024 - README.md
+# Advent of Code - README.md
 
-Welcome to the **Advent of Code 2024** repository! This is your one-stop guide to participating in and enjoying this year's coding challenge extravaganza. Whether you're a seasoned programmer or a curious beginner, this README will help you navigate through the event and make the most of your experience.
+Welcome to the **Advent of Code** repository! This is your one-stop guide to participating in and enjoying this year's coding challenge extravaganza. Whether you're a seasoned programmer or a curious beginner, this README will help you navigate through the event and make the most of your experience.
 
 ---
 
